@@ -1,0 +1,9 @@
+- obsidian 
+- keepassxc
+- brave
+- gh cli 
+- discord 
+- vesktop
+- session desktop 
+- tree
+- 
