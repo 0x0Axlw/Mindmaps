@@ -1,0 +1,4 @@
+# Home
+
+- [[setup]]
+- [[apps]]
